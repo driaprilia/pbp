@@ -1,0 +1,21 @@
+let nama = "Anzelita Anggraeni";
+let umur = 20;
+let tinggi = 160.5;
+let mahasiswaAktif = true;
+let alamat = "Sukabumi";
+let nilai = 95;
+let lulus = true;
+
+console.log(nama);
+console.log(umur);
+console.log(tinggi);
+console.log(mahasiswaAktif);
+console.log(alamat);
+console.log(nilai);
+console.log(lulus);
+console.log(typeof nama);
+console.log(typeof umur);
+console.log(typeof tinggi);
+console.log(typeof mahasiswaAktif);
+console.log(typeof alamat);
+console.log(typeof nilai);

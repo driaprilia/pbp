@@ -1,0 +1,10 @@
+let a = 20;
+let b = 6;
+console.log("penjumlahan:", a + b);
+console.log("pengurangan:", a - b);
+console.log("perkalian:", a * b);
+console.log("pembagian:", a / b);
+console.log("modulus:", a % b);
+console.log("luas persegi:", a * b);
+console.log("luas persegi panjang:", a * b);
+console.log("luas lingkaran:", 3.14 * a * b);
